@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+pyqtgraph
+hurst
+statsmodels
+PyQt6
+aiohttp
+pygame
